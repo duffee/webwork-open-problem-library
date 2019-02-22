@@ -92,51 +92,35 @@ The guiding principles for developing this Taxonomy
       1. waveguides and 
 
    1. Circuits
-
       1. Capacitance
-
       1. Current (Ohm’s Law)
-
       1. Resistance
-
       1. Alternating Current
 
 1. Thermodynamics
-
    1. First Law
-
       1. Temperature
-
       1. Heat
-
       1. Transfer of Heat
 
    1. Second Law
-
       1. Entropy
-
       1. Irreversibility (ratchet and pawl)
 
    1. Third and Zeroth Law
 
    1. Kinetic Theory of Gases
-
       1. Ideal Gas Law
 
    1. Statistical Mechanics
-
       1. Brownian motion
 
    1. Diffusion
 
 4. Waves and Vibrations
-
    1. Sound
-
       1. Beats
-
       1. Modes
-
       1. Harmonics
 
    1. Doppler effect and Redshift *see also Astro:Cosmology*
@@ -152,13 +136,10 @@ The guiding principles for developing this Taxonomy
    1. Interference _also in Optics?_
 
 5. Optics
-
    1. Reflection
-
       1. Images
 
    1. Refraction
-
       1. Index of Refraction
 
    1. Diffraction
@@ -168,21 +149,15 @@ The guiding principles for developing this Taxonomy
    1. Lasers
 
 6. Fluid Dynamics
-
    1. Dry Water
-
       1. Hydrostatics
-
       1. Bernoulli
 
    1. Wet water
-
       1. Navier-Stokes
-
       1. Turbulence
 
 7. Relativity
-
    1. Special Relativity
 
    1. Lorentz contraction
@@ -198,27 +173,19 @@ The guiding principles for developing this Taxonomy
    1. General Relativity
 
 8. Atomic and Nuclear Physics
-
    1. Atomic Structure
-
       1. Spectral Lines *see also Astro and Quantum Mechanics:Photons*
 
    1. Radioactivity
 
    1. Ionizing radiation
-
       1. Alpha
-
       1. Beta
-
       1. gamma
 
    1. elementary particles
-
       1. Protons
-
       1. Neutrons
-
       1. electrons
 
    1. nuclear energy
@@ -228,13 +195,9 @@ The guiding principles for developing this Taxonomy
    1. Fusion
 
    1. Quarks and The Particle Zoo
-
       1. Quarks and Hadrons
-
       1. Baryons
-
       1. Mesons
-
       1. Leptons
 
    1. Feynman diagrams/nuclear reactions
@@ -242,19 +205,15 @@ The guiding principles for developing this Taxonomy
    1. radiation damping /light scattering (_what is this?_)
 
 9. Quantum Mechanics
-
    1. Particle-Wave duality
 
    1. Uncertainty Principle
 
    1. Wave equation
-
       1. solutions for Hydrogen
-
       1. time dependent solutions
 
    1. Photons
-
       1. Spectral lines
 
    1. Tunnelling
@@ -264,73 +223,52 @@ The guiding principles for developing this Taxonomy
    1. Quantum Chromodynamics
 
 10. Astronomy and Astrophysics
-
    1. Gravitation _also in Dynamics:Potential Energy?_
 
    1. Stellar Evolution
-
       1. Birth
-
       1. HR Diagram
-
       1. Giant stars
-
       1. End States - White Dwarfs, Neutron Stars and Black Holes
 
    1. Galactic Dynamics
-
       1. Dark Matter
 
    1. Cosmology
-
       1. Redshift
-
       1. Curved Space
-
       1. Dark Energy 
 
 11. Solid State Physics
-
    1. Crystals
 
 12. Geophysics
-
    1. Glaciation
 
    1. Remote Sensing
 
 13. Biophysics
-
    1. colour vision and seeing
 
 14. Medical Physics
-
    1. Imaging
-
       1. X-rays
-
       1. CAT
-
       1. PET
 
 15. Theoretical Physics
-
    1. Symmetry
 
    1. Field Theory
 
 16. Experimental Skills
-
    1. Measurement (*see also 1.a.iv, Mechanics/Fundamentals* )
-
       1. Vernier scales
 
    1. Graphical Analysis
-
       1. Lines of Best Fit
 
    1. Equipment
-
       1. Oscilloscopes
 
 17. Unclassified (from Feynman)
