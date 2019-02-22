@@ -20,7 +20,6 @@ The guiding principles for developing this Taxonomy
 * Try to have **No Duplications**
 
 1. Mechanics
-
   1. Fundamentals  
     1. Units  
     1. Vectors  
@@ -32,20 +31,14 @@ The guiding principles for developing this Taxonomy
     1. 2 dimension
     1. 3 dimension
 
-
-0. stop
-  1. Statics
-
+  1. Statics  
     1. Centre of Mass
-
     1. Forces
-
     1. Newton’s Laws
-
     1. Equilibrium
-
     1. Elasticity
 
+0. STOP HERE
   1. Dynamics
 
     1. Impulse
