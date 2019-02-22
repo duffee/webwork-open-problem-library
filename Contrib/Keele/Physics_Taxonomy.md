@@ -222,64 +222,64 @@ The guiding principles for developing this Taxonomy
 
    1. Quantum Chromodynamics
 
-10. Astronomy and Astrophysics
-   1. Gravitation _also in Dynamics:Potential Energy?_
+10. Astronomy and Astrophysics 
+    1. Gravitation _also in Dynamics:Potential Energy?_
 
-   1. Stellar Evolution
-      1. Birth
-      1. HR Diagram
-      1. Giant stars
-      1. End States - White Dwarfs, Neutron Stars and Black Holes
+    1. Stellar Evolution
+       1. Birth
+       1. HR Diagram
+       1. Giant stars
+       1. End States - White Dwarfs, Neutron Stars and Black Holes
 
-   1. Galactic Dynamics
-      1. Dark Matter
+    1. Galactic Dynamics
+       1. Dark Matter
 
-   1. Cosmology
-      1. Redshift
-      1. Curved Space
-      1. Dark Energy 
+    1. Cosmology
+       1. Redshift
+       1. Curved Space
+       1. Dark Energy 
 
 11. Solid State Physics
-   1. Crystals
+    1. Crystals
 
 12. Geophysics
-   1. Glaciation
+    1. Glaciation
 
-   1. Remote Sensing
+    1. Remote Sensing
 
 13. Biophysics
-   1. colour vision and seeing
+    1. colour vision and seeing
 
 14. Medical Physics
-   1. Imaging
-      1. X-rays
-      1. CAT
-      1. PET
+    1. Imaging
+       1. X-rays
+       1. CAT
+       1. PET
 
 15. Theoretical Physics
-   1. Symmetry
+    1. Symmetry
 
-   1. Field Theory
+    1. Field Theory
 
 16. Experimental Skills
-   1. Measurement (*see also 1.a.iv, Mechanics/Fundamentals* )
-      1. Vernier scales
+    1. Measurement (*see also 1.a.iv, Mechanics/Fundamentals* )
+       1. Vernier scales
 
-   1. Graphical Analysis
-      1. Lines of Best Fit
+    1. Graphical Analysis
+       1. Lines of Best Fit
 
-   1. Equipment
-      1. Oscilloscopes
+    1. Equipment
+       1. Oscilloscopes
 
 17. Unclassified (from Feynman)
 
-   1. Atoms in Motion
+    1. Atoms in Motion
 
-   1. linear systems
+    1. linear systems
 
-   1. electromagnetic mass
+    1. electromagnetic mass
 
-   1. radiation damping /light scattering
+    1. radiation damping /light scattering
 
-   1. cavity resonators (*lasers?*)
+    1. cavity resonators (*lasers?*)
 
