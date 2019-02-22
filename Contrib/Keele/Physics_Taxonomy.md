@@ -19,24 +19,24 @@ The guiding principles for developing this Taxonomy
 * Must have **No Omissions**
 * Try to have **No Duplications**
 
-1. Mechanics
-  1. Fundamentals  
-    1. Units  
-    1. Vectors  
-    1. Tensors  
-    1. Measurement
+1. Mechanics  
+   1. Fundamentals  
+      1. Units  
+      1. Vectors  
+      1. Tensors  
+      1. Measurement
 
-  1. Kinematics  
-    1. Linear Motion
-    1. 2 dimension
-    1. 3 dimension
+   1. Kinematics  
+      1. Linear Motion
+      1. 2 dimension
+      1. 3 dimension
 
-  1. Statics  
-    1. Centre of Mass
-    1. Forces
-    1. Newton’s Laws
-    1. Equilibrium
-    1. Elasticity
+   1. Statics  
+      1. Centre of Mass
+      1. Forces
+      1. Newton’s Laws
+      1. Equilibrium
+      1. Elasticity
 
 0. STOP HERE
   1. Dynamics
